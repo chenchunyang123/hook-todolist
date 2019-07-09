@@ -1,0 +1,11 @@
+.listWrap {
+    height: 240px;
+    overflow: auto;
+}
+
+.close {
+    float: right;
+    cursor: pointer;
+    font-size: 12px;
+    padding-top: 4px;
+}
